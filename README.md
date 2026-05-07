@@ -5,8 +5,8 @@
 Es el repositorio en el cual estaremos guardando las entregas de la asignatura. <br>
 
 ## ⭐️ Entregas
-[Primera entrega](https://github.com/Sofia-RRly/fantastic-spoon/tree/main/Primera%20entrega)
-[Segunda entrega](https://github.com/Sofia-RRly/fantastic-spoon/tree/main/Segunda%20Entrega)
+- [Primera entrega](https://github.com/Sofia-RRly/fantastic-spoon/tree/main/Primera%20entrega)
+- [Segunda entrega](https://github.com/Sofia-RRly/fantastic-spoon/tree/main/Segunda%20Entrega)
 
 ## 🌟 Miembros del Equipo
 - Pech Herrera Moises Isaac - [LinkedIn](https://www.linkedin.com/in/moises-isaac-herrera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
