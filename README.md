@@ -11,7 +11,7 @@ Es el repositorio en el cual estaremos guardando las entregas de la asignatura. 
 ## 🌟 Miembros del Equipo
 - Pech Herrera Moises Isaac - [LinkedIn](https://www.linkedin.com/in/moises-isaac-herrera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Puch Rodríguez Karina Gabriela - [LinkedIn](https://www.linkedin.com/in/karina-gabriela-puch-rodríguez-74922728a/)
-- Reyes Rodríguez Sofia - [LinkedIn]()
+- Reyes Rodríguez Sofia - [LinkedIn](https://www.linkedin.com/in/sof-rdz/)
 - Tec Bonilla Jesús Antonio - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-tec-20b25428a/)
 
 <img src="/Equipo/zack.jpeg" width="200">
